@@ -144,5 +144,3 @@ mongodb://127.0.0.1:27017/mern_demo
 * Nodemon auto-restarts server on file changes
 
 ---
-
-Developed as a MERN CRUD practice project.
